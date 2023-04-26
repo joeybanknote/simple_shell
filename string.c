@@ -19,7 +19,7 @@ int _strlen(char *s)
 }
 
 /**
- * _strcmp - performs lexicogarphic comparison of two strangs.
+ * _strcmp - performs lexicographic comparison of two strings.
  * @s1: the first strang
  * @s2: the second strang
  *
